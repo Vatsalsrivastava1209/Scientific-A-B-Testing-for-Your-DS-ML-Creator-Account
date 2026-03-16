@@ -1,4 +1,4 @@
-# Tweet Experiment Lab – A/B Testing on X (Twitter)
+# Tweet Experiment – A/B Testing on X (Twitter)
 
 ## Overview
 
@@ -119,9 +119,7 @@ Possible extensions of this project:
 
 ## Author
 
-**Vatsal Srivastava**
-
-Data analyst focused on experimentation, analytics, and product insights.
+**Vatsal**
 
 LinkedIn
 https://www.linkedin.com/in/vatsal-srivastava-440417260/
